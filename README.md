@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Quick and dirty example using Next.JS + [ReactGbaJs](https://github.com/macabeus/react-gbajs)
+
+This repository was created to reproduce a bug
